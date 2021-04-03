@@ -1,1 +1,1 @@
-echo "Checking from local sysmta"
+echo "Checking from local system"
